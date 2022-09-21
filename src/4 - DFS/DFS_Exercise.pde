@@ -50,8 +50,8 @@ neighbors[3].add(4);
 neighbors[3].add(6); //3 -> 4 & 6
 neighbors[2].add(7); //2 -> 7
 neighbors[4].add(5); //4 -> 5
-neighbors[6].add(5); //4 -> 5
-neighbors[5].add(7); //6 -> 5
+neighbors[6].add(5); //6 -> 5
+neighbors[5].add(7); //5 -> 7
 
 println("List of Neighbors:");
 println(neighbors);
