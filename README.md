@@ -1,14 +1,14 @@
 # CSCI5611-HW1
 <h2>MouseFollow</h2>
-<img height=400 width=800 src="/images/mousefollowgif.gif">
+<img height=400 width="auto" src="/images/mousefollowgif.gif">
 <p>No extra credit involved in MouseFollow</p>
 <div\>
 <h2>Particle System</h2>
-<img height=400 width=800 src="/images/particlegif.gif">
+<img height=400 width="auto" src="/images/particlegif.gif">
 <p>No extra credit involved in Particle System</p>
 <div\>
 <h2>TTCForces</h2>
-<img height=400 width=800 src="/images/ttcforcesgif.gif">
+<img height=400 width="auto" src="/images/ttcforcesgif.gif">
 <p>No extra credit involved in TTForces</p>
 <div\>
 <h2>DFS vs BFS searching</h2>
